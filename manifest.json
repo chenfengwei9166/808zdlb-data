@@ -1,117 +1,202 @@
 {
-  "version": "1.0.0",
-  "updated": "2026-07-12T00:30",
+  "version": "1.1.0",
+  "updated": "2026-07-12T00:40",
   "repo": "https://github.com/chenfengwei9166/808zdlb-data",
   "files": [
     {
-      "file": "brand-landscape.md",
+      "file": "data/brand-landscape.md",
       "hash": "864a026e26fce95e",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/brand-landscape.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/brand-landscape.md"
     },
     {
-      "file": "channel-structure.md",
+      "file": "data/channel-structure.md",
       "hash": "fec3243b186e7586",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/channel-structure.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/channel-structure.md"
     },
     {
-      "file": "content-templates.md",
+      "file": "data/content-templates.md",
       "hash": "3840373411b92818",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/content-templates.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/content-templates.md"
     },
     {
-      "file": "embodied-intelligence.md",
+      "file": "data/embodied-intelligence.md",
       "hash": "a7cf6d6e4f7f82d9",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/embodied-intelligence.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/embodied-intelligence.md"
     },
     {
-      "file": "five-year-trend-baseline.md",
+      "file": "data/five-year-trend-baseline.md",
       "hash": "cc536566546ccb69",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/five-year-trend-baseline.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/five-year-trend-baseline.md"
     },
     {
-      "file": "glossary.md",
+      "file": "data/glossary.md",
       "hash": "2d7b5269f42266ee",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/glossary.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/glossary.md"
     },
     {
-      "file": "industry-judgments.md",
+      "file": "data/industry-judgments.md",
       "hash": "414f633bd5cd8f8c",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/industry-judgments.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/industry-judgments.md"
     },
     {
-      "file": "market-laws.md",
+      "file": "data/market-laws.md",
       "hash": "91be27da0913db58",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/market-laws.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/market-laws.md"
     },
     {
-      "file": "market-rules.md",
+      "file": "data/market-rules.md",
       "hash": "23dfed3984139cac",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/market-rules.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/market-rules.md"
     },
     {
-      "file": "monthly-data-series.md",
+      "file": "data/monthly-data-series.md",
       "hash": "549301a7c34d9a4b",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/monthly-data-series.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/monthly-data-series.md"
     },
     {
-      "file": "offline-channel-evolution.md",
+      "file": "data/offline-channel-evolution.md",
       "hash": "a3046d6e383a7eb2",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/offline-channel-evolution.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/offline-channel-evolution.md"
     },
     {
-      "file": "online-channel-evolution.md",
+      "file": "data/online-channel-evolution.md",
       "hash": "c58af5f918ced41f",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/online-channel-evolution.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/online-channel-evolution.md"
     },
     {
-      "file": "opening_closing.json",
+      "file": "data/opening_closing.json",
       "hash": "aecc173f6628d58a",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/opening_closing.json"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/opening_closing.json"
     },
     {
-      "file": "operational-methods.md",
+      "file": "data/operational-methods.md",
       "hash": "2dc46d1bb8b9f234",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/operational-methods.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/operational-methods.md"
     },
     {
-      "file": "quotes.md",
+      "file": "data/quotes.md",
       "hash": "9e8dce2eba8f2261",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/quotes.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/quotes.md"
     },
     {
-      "file": "speech-methods.md",
+      "file": "data/speech-methods.md",
       "hash": "85494a91714270e0",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/speech-methods.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/speech-methods.md"
     },
     {
-      "file": "supplementary-materials.md",
+      "file": "data/supplementary-materials.md",
       "hash": "05453d3c37355c81",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/supplementary-materials.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/supplementary-materials.md"
     },
     {
-      "file": "templates-custom.md",
+      "file": "data/templates-custom.md",
       "hash": "a37d3019e3904b72",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/templates-custom.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/templates-custom.md"
     },
     {
-      "file": "terminal-market-data.md",
+      "file": "data/terminal-market-data.md",
       "hash": "1b4f4f1f8dce69e1",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/terminal-market-data.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/terminal-market-data.md"
     },
     {
-      "file": "theory.md",
+      "file": "data/theory.md",
       "hash": "d248179452273d1f",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/theory.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/theory.md"
     },
     {
-      "file": "top100-models.md",
+      "file": "data/top100-models.md",
       "hash": "bd50c47ed2890563",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/top100-models.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/top100-models.md"
     },
     {
-      "file": "video-topics.md",
+      "file": "data/video-topics.md",
       "hash": "5239f88dfee6aca3",
-      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/video-topics.md"
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/video-topics.md"
+    },
+    {
+      "file": "methods/INDEX.md",
+      "hash": "8fb3cd6054c5480b",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/INDEX.md"
+    },
+    {
+      "file": "methods/_universal/answer-default.md",
+      "hash": "a648d8bd888c96b6",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/_universal/answer-default.md"
+    },
+    {
+      "file": "methods/_universal/review-default.md",
+      "hash": "a5522822fd5e5e78",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/_universal/review-default.md"
+    },
+    {
+      "file": "methods/_universal/write-default.md",
+      "hash": "2383a48b0811a1f0",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/_universal/write-default.md"
+    },
+    {
+      "file": "methods/analyze/brand-positioning.md",
+      "hash": "c54918b89ee9f134",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/analyze/brand-positioning.md"
+    },
+    {
+      "file": "methods/analyze/channel-insight.md",
+      "hash": "2711bda5bbb820c4",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/analyze/channel-insight.md"
+    },
+    {
+      "file": "methods/analyze/market-data-read.md",
+      "hash": "ce08677011a1e475",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/analyze/market-data-read.md"
+    },
+    {
+      "file": "methods/answer/first-answer.md",
+      "hash": "4f79dbb90ea42825",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/answer/first-answer.md"
+    },
+    {
+      "file": "methods/first-principles.md",
+      "hash": "0055ef08f403ea8c",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/first-principles.md"
+    },
+    {
+      "file": "methods/review/5w2h.md",
+      "hash": "b929e0de4d1a1b8e",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/review/5w2h.md"
+    },
+    {
+      "file": "methods/review/industry-material-rules.md",
+      "hash": "5f597d1e430e52e8",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/review/industry-material-rules.md"
+    },
+    {
+      "file": "methods/review/pdca.md",
+      "hash": "0052772fbf5b5b63",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/review/pdca.md"
+    },
+    {
+      "file": "methods/review/ppt-review-style.md",
+      "hash": "cf2603f027833aac",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/review/ppt-review-style.md"
+    },
+    {
+      "file": "methods/review/ppt-review-zhanshi.md",
+      "hash": "b4a72d2273722e9a",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/review/ppt-review-zhanshi.md"
+    },
+    {
+      "file": "methods/review/pyramid.md",
+      "hash": "efa69c4e4129634a",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/review/pyramid.md"
+    },
+    {
+      "file": "methods/write/pyramid-write.md",
+      "hash": "ded49b8e0ce7bffd",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/write/pyramid-write.md"
+    },
+    {
+      "file": "methods/write/scqa.md",
+      "hash": "9ea15be6b5844e09",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/methods/write/scqa.md"
     }
   ]
 }

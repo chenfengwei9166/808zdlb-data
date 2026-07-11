@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "updated": "2026-07-12",
+  "version": "1.0.1",
+  "updated": "2026-07-12T00:28",
   "repo": "https://github.com/chenfengwei9166/808zdlb-data",
   "files": [
     {
@@ -50,7 +50,7 @@
     },
     {
       "file": "monthly-data-series.md",
-      "hash": "549301a7c34d9a4b",
+      "hash": "add433228776d0b9",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/monthly-data-series.md"
     },
     {

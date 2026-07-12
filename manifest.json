@@ -1,8 +1,13 @@
 {
-  "version": "1.1.0",
-  "updated": "2026-07-12T00:40",
+  "version": "1.2.0",
+  "updated": "2026-07-12T17:30",
   "repo": "https://github.com/chenfengwei9166/808zdlb-data",
   "files": [
+    {
+      "file": "data/articles.md",
+      "hash": "01ce50be2d1750f7",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/articles.md"
+    },
     {
       "file": "data/brand-landscape.md",
       "hash": "864a026e26fce95e",
@@ -37,6 +42,16 @@
       "file": "data/industry-judgments.md",
       "hash": "414f633bd5cd8f8c",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/industry-judgments.md"
+    },
+    {
+      "file": "data/knowledge-graph.md",
+      "hash": "c7fb58606609d588",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/knowledge-graph.md"
+    },
+    {
+      "file": "data/library-index.md",
+      "hash": "d3dfd8b6251e170c",
+      "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/library-index.md"
     },
     {
       "file": "data/market-laws.md",
@@ -75,7 +90,7 @@
     },
     {
       "file": "data/quotes.md",
-      "hash": "9e8dce2eba8f2261",
+      "hash": "af262f584d4028f5",
       "url": "https://raw.githubusercontent.com/chenfengwei9166/808zdlb-data/main/data/quotes.md"
     },
     {

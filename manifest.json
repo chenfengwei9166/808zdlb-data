@@ -1,28 +1,28 @@
 {
-  "version": "1.4.0",
-  "updated": "2026-09-12T10:31",
+  "version": "1.5.0",
+  "updated": "2026-10-07T18:40",
   "repo": "https://github.com/chenfengwei9166/808zdlb-data",
   "files": {
     "data/monthly-data-series.md": "549301a7c34d9a4b5c61caf85379acb6a4ed0ba3f7bc99e1272a252a3d4edb54",
     "data/channel-structure.md": "fec3243b186e7586d956290c73d45c2f76a4c78a7da25db220d0b28e394a1237",
     "data/articles.md": "2f9cc456b05d2fc656d693d6bdbc0d3b9489c3642b39a01183ba2cc47de26d28",
-    "data/theory.md": "ab3ca27b4c25e4f93813d314fc9aaa305f9722bc36284580c3c360fbd15f2350",
+    "data/theory.md": "e00a9fcf5e6750f85230b25faf7ee7c4d56c2004c0b17cc66a99610e881fde0a",
     "data/online-channel-evolution.md": "c58af5f918ced41f5a1d435625c5cbcd21c19be541a841bbdddca49acf0b0c05",
     "data/five-year-trend-baseline.md": "cc536566546ccb695b346eeebaa381766d567762bf6cedd7ab5b722c56b16948",
     "data/glossary.md": "2d7b5269f42266ee6803736507b026c6e504f9e4ed679297ea67b472c1261d5d",
     "data/templates-custom.md": "a37d3019e3904b721b5f541615fc2dee622e90283182ab8cc8471c48f5900844",
     "data/timeline-index.md": "7fc4b878e232a439e7591c34e9323a07931ce4b8eff64cb69299638d7bef9d52",
-    "data/quotes.md": "0c46f8f088b84bee87bfb81465493161da40a9e9d0cc51ba72f5897ec41c1e33",
-    "data/industry-judgments.md": "e6727c335e1143e4d712cc47208d805556bd0a7271ffb6930c9dca40d90ad154",
+    "data/quotes.md": "266ed1fbae602dcfd571fd6dc0fa2db896ee1e984655194d7618febcfe3d221d",
+    "data/industry-judgments.md": "5620233a95bdcfbe0a27a8e2992c7a3d4f1efe0a66ada0b458297a247b10a1a4",
     "data/operational-methods.md": "2dc46d1bb8b9f234f6639cc1ecc4940cc27f016514ba5da5114ff47360b5fee5",
-    "data/knowledge-graph.md": "cf2f3dd0b23dc2b11f9611597b2b6912e8bf29b7a61434acdff4ada1354a8cba",
+    "data/knowledge-graph.md": "7c6cf0428c2906b3a8635a8e04499f1e9606e46e2b1af329ed395f393d102ab7",
     "data/brand-landscape.md": "4af30100a3a83b4dd05c07639e9ca8cd082bcb94c73451865bc78ceaaf68a9aa",
     "data/speech-methods.md": "85494a91714270e07d536722d2d74a4340ab1f215d325122c8383224d93e0aab",
     "data/supplementary-materials.md": "05453d3c37355c8101df071c830399ca94e54862ccbd378aad45cc84c59140bf",
     "data/video-topics.md": "5239f88dfee6aca336168e8ba56d693a5280aed38d446e7f5d8950f555e6cb44",
     "data/offline-channel-evolution.md": "a3046d6e383a7eb2209d5e165d73060d746b4011d77fd832ad6fc6c5c0153af3",
     "data/content-templates.md": "3840373411b92818ed7f08f73037940b9011bdf624ca851e50cbdb8fc864ad6b",
-    "data/library-index.md": "ed743dab0617d388b7b4cdfbcc5fcda6b0fd83485d3b66db935a52080196bf9e",
+    "data/library-index.md": "bc7deaaf5f3198f8236e9089c43b2f8f5678864e82a2e192d2badd955e79f391",
     "data/top100-models.md": "bd50c47ed28905636b972922cb6b42e5f83930c3da4733194b51dc4b2d179a43",
     "data/embodied-intelligence.md": "a7cf6d6e4f7f82d9918479ad8d189228b3d1d259a7731c20b4abf8c5c720e8c1",
     "data/market-rules.md": "23dfed3984139cac6a7ec9f49ffcb08cc85c24ffad47855ab793ac7e2cb4f598",
@@ -46,7 +46,7 @@
     "methods/_universal/review-default.md": "a5522822fd5e5e78de1c7bb9f36c87b087b9f1716c0a674840eb9d8f2e851d1a",
     "methods/_universal/write-default.md": "2383a48b0811a1f08a074a64c739331b703ec7c283475fe07312ae660016659f",
     "methods/_universal/answer-default.md": "a648d8bd888c96b672205f101957508f78dd53e4b19feae8813649927af15b82",
-    "data/industry-validation.md": "2caf229959f72df83feea24b361a743902e098efddb715b34d3006fa6b768cd9"
+    "data/industry-validation.md": "9091cf3c7995a349062fd4b9615519d9d270f39204896b52d3ce08475152548d"
   },
-  "updated_at": "2026-09-12T02:31:29Z"
+  "updated_at": "2026-10-07T10:40:44Z"
 }

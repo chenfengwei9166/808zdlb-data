@@ -1,6 +1,6 @@
 {
   "version": "1.5.0",
-  "updated": "2026-10-07T18:40",
+  "updated": "2026-10-07T19:05",
   "repo": "https://github.com/chenfengwei9166/808zdlb-data",
   "files": {
     "data/monthly-data-series.md": "549301a7c34d9a4b5c61caf85379acb6a4ed0ba3f7bc99e1272a252a3d4edb54",
@@ -12,7 +12,7 @@
     "data/glossary.md": "2d7b5269f42266ee6803736507b026c6e504f9e4ed679297ea67b472c1261d5d",
     "data/templates-custom.md": "a37d3019e3904b721b5f541615fc2dee622e90283182ab8cc8471c48f5900844",
     "data/timeline-index.md": "7fc4b878e232a439e7591c34e9323a07931ce4b8eff64cb69299638d7bef9d52",
-    "data/quotes.md": "266ed1fbae602dcfd571fd6dc0fa2db896ee1e984655194d7618febcfe3d221d",
+    "data/quotes.md": "93873ffc8a0f7bed89ce78d13fc1971fed46805ee876178b3824053537e61d0a",
     "data/industry-judgments.md": "5620233a95bdcfbe0a27a8e2992c7a3d4f1efe0a66ada0b458297a247b10a1a4",
     "data/operational-methods.md": "2dc46d1bb8b9f234f6639cc1ecc4940cc27f016514ba5da5114ff47360b5fee5",
     "data/knowledge-graph.md": "7c6cf0428c2906b3a8635a8e04499f1e9606e46e2b1af329ed395f393d102ab7",
@@ -48,5 +48,5 @@
     "methods/_universal/answer-default.md": "a648d8bd888c96b672205f101957508f78dd53e4b19feae8813649927af15b82",
     "data/industry-validation.md": "9091cf3c7995a349062fd4b9615519d9d270f39204896b52d3ce08475152548d"
   },
-  "updated_at": "2026-10-07T10:40:44Z"
+  "updated_at": "2026-10-07T11:05:39Z"
 }
